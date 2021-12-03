@@ -1,1 +1,2 @@
 # PythonProje
+BU BİR PYTHON PROJESİDİR
